@@ -12,7 +12,9 @@
 
 <h3>Diagrama de Estrutura do Banco de Dados</h3>
 <p>O diagrama abaixo ilustra a estrutura do banco de dados, mostrando as entidades e seus relacionamentos:</p>
-<img src="Diagramas/Der.jpg" alt="Diagrama de Estrutura do Banco de Dados" style="max-width: 100%; height: auto;">
+<div align="center">
+    <img src="Diagramas/Der.jpg" alt="Diagrama de Estrutura do Banco de Dados" style="max-width: 100%; height: auto;">
+</div>
 
 <h3>Estrutura do Banco de Dados</h3>
 <p>O banco de dados é composto por várias tabelas, cada uma representando um aspecto diferente dos personagens e itens do jogo:</p>
@@ -27,9 +29,7 @@
 
 <h3>Diagrama</h3>
 <p>Você pode visualizar o diagrama que foi criado no Miro abaixo:</p>
-<div align="center">
-    <img src="Diagramas/Der.jpg" alt="Diagrama de Estrutura do Banco de Dados" style="max-width: 100%; height: auto;">
-</div>
+
 
 <div align="center">
     <img height="200" src="https://i.pinimg.com/originals/bb/b2/06/bbb206d9da53f6152db84a31f61ad675.gif" />
